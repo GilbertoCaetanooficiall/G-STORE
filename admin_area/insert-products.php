@@ -91,7 +91,7 @@
                         </div>
                     </div>
                     <div class="form-group">
-                        <label class="col-md-3 control-label">palavra-chave do producto</label>
+                        <label class="col-md-3 control-label">palavra-chave  do producto</label>
                         <div class="col-md-6">
                         <input type="text" name="keywords" required class="form-control">
                         </div>
